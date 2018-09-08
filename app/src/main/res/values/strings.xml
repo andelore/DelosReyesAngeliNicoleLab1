@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="linear">Linear Layout</string>
+    <string name="relative">Relative Layout</string>
+    <string name="constraint">Constraint Layout</string>
+    <string name="daisy">Daisy</string>
+</resources>
